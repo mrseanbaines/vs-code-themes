@@ -1,0 +1,21 @@
+{
+  "name": "seans-third-theme",
+  "displayName": "seans-third-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sean's 3rd Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/seans-third-theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "seans-second-theme",
+    "displayName": "seans-second-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "seans-second-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/seans-second-theme-color-theme.json"
+            }
+        ]
+    }
+}
